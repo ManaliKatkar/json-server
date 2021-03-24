@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "a01",
+      "name": "Manali Katkar",
+      "email": "m.@email.com",
+      "age": "22"
+    },
+    {
+      "id": "a02",
+      "name": "Utkarsh Katkar",
+      "email": "u.@email.com",
+      "age": "20"
+    },
+    {
+      "id": "a03",
+      "name": "Mangal Katkar",
+      "email": "mk.@email.com",
+      "age": "50"
+    }
+  ]
+}
